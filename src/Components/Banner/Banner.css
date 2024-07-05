@@ -1,0 +1,15 @@
+.banner {
+  background-image: url("https://360dsoul.com/wp-content/uploads/2024/04/hero2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 60vh;
+  width: 100%;
+  font-style: open-sens;
+}
+
+@media only screen and (max-width: 600px) {
+  .banner {
+    height: 130vh;
+  }
+}

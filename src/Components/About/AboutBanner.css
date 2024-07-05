@@ -1,0 +1,8 @@
+.about-banner {
+  background-image: url("https://t4.ftcdn.net/jpg/04/75/24/07/360_F_475240772_JOhT0E0qTLFgAMBVdGiA4FKsEMIPS0r7.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 60vh;
+  width: 100%;
+}
